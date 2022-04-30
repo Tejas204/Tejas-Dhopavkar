@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=Tejas-Dhopavkar&color=green)
+
 - 👋 Hi, I’m @Tejas-Dhopavkar
 - 👀 I’m interested in **AI, Deep Learning, Machine Learning and Cryptography**
 - 🌱 I’m currently learning to develop various applications using **Blockchain**
